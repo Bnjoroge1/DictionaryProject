@@ -1,0 +1,4 @@
+build-date: 2020-04-02 19:49:31 
+os-info: Linux-5.3.0-19-generic-x86_64-with-glibc2.29
+mysql-version: 8.0.20
+compiler: x86_64-linux-gnu-gcc
